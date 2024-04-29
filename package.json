@@ -1,12 +1,12 @@
 {
-	"name": "vscode-dev-containers",
+	"name": "cloud-development-projects",
 	"version": "0.245.2",
-	"description": "VS Code Dev Containers: Definitions and Templates",
+	"description": "projects covering multiple aspects of clud computing",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-dev-containers.git"
+		"url": "https://github.com/ecampuslearning/cloud-development-projects.git"
 	},
-	"author": "Microsoft Corporation",
+	"author": "Moses Fabiyi",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"files": [
 		"containers",
